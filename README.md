@@ -2,6 +2,6 @@
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on web development and design.
-- 📫 How to reach me Email: maydelinepimentel04@gmsil.com | @clydelinee on Instagram
+- 📫 How to reach me Email: maydelinepimentel04@gmail.com | @clydelinee on Instagram
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I play the bass guitar.
