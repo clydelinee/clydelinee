@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @clydelinee
+- 👋 Hi, I’m @clydelinee, Maydeline Pimentel
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I have experience in HTML, CSS, and Javascript.
 - 💞️ I’m looking to collaborate on web development and design.
 - 📫 How to reach me Email: maydelinepimentel04@gmail.com | @clydelinee on Instagram
-- 😄 Pronouns: She/her
-- ⚡ Fun fact: I play the bass guitar.
